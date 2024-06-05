@@ -1,0 +1,11 @@
+{
+    "description": "Explore unique digital assets each with its own story and rarity.",
+    "name": "Treasury Chest #167",
+    "image": "https://github.com/loonynvi/Lmaooff/blob/main/common.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common"
+        }
+    ]
+}
